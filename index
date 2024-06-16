@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en_US">
+<head>
+    <meta charset="utf-8">
+    <meta name="veiwport" content="width=divice-width, initial-scale=1">
+    <title>Nathan Merrick WDD 130</title>    
+</head>
+<body>
+ <header>
+    <nav>
+        <p> this is a test link<a herf="https://www.mycatnamedrauban.com"></a> </p>
+        <p> this is another test link<a herf="https://www.mycatnamedeku.com"></a> </p>
+        <p> this is yet another test link<a herf="https://www.mycatnamedpuck.com"></a> </p>
+    </nav>
+ </header>
+<main>
+    <h1>Nathan Merrick WDD 130</h1>
+    <img scr="images/2020706_074406.webp" alt="a maintenance man at mc'donalds">
+    <p>I am a hard working indivisual. i live with Sara my wife in a small trailer in georgia.
+        we both enjoy PC games. toying with the comands in minecraft lead me to realized that education in coding.
+        i hope to receve the education i need to rase a family. 
+    </p>
+</main>
+ <footer> 
+    <p>©2024 Nathan Merrick Georgia USA </p>
+ </footer>
+</body>
+    
+</html>

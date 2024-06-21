@@ -1,0 +1,35 @@
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    display: black;
+    padding: 20px
+
+}
+h1 {
+    color: steelblue;
+}
+main-img { 
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+}
+p {
+    padding: 10px;
+}
+aside {
+    color:
+    text-align:left;
+    padding: 5px ;
+    margin: 20px;
+    border: solid (0,0,0,0.2) 1px;
+    background: peachpuff 
+    image-set(left)
+}
+aside img {
+    width: 200px;
+    height:auto
+}

@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en_US">
-<head>
     <meta charset="utf-8">
     <meta name="veiwport" content="width=divice-width, initial-scale=1">
-    <title>Nathan Merrick WDD 130</title>    
+    <title>Nathan Merrick WDD 130</title>  
+    <link rel="stylesheet" herf="wdd130/week2/styles/styles.css">  
 </head>
 <body>
  <header>
@@ -15,15 +13,16 @@
  </header>
 <main>
     <h1>Nathan Merrick WDD 130</h1>
-    <img scr="images/2020706_074406.webp" alt="a maintenance man at mc'donalds">
+    <img scr="wdd130/2020706_074406.webp" alt=""a maintenance man at mc'donalds">
     <p>I am a hard working indivisual. i live with Sara my wife in a small trailer in georgia.
         we both enjoy PC games. toying with the comands in minecraft lead me to realized that education in coding.
         i hope to receve the education i need to rase a family. 
     </p>
+    <aside>
+       <h2>Georgia</h2>
+       <p>Geargia is well know for its peaches. its also home to the busiest airport in The United States. and home to one of the oldest port citys on the East Coast Savanah Geargia. you can expect it to always be verry humid and sunny there, with kind people who are known for their Southern Hospitality. </p>
+       <img scr="wdd130\Georgia-united-states-locator-map (1).webp">
+    </aside>
 </main>
  <footer> 
     <p>©2024 Nathan Merrick Georgia USA </p>
- </footer>
-</body>
-    
-</html>
